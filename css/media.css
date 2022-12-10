@@ -1,0 +1,651 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    header {
+    padding: 10px 0;
+    
+    }
+    .c_nav h1 {
+    font-size: 26px;
+    }
+    .menu ul li a {
+    padding: 15px 0px 0!important;
+    }
+    .ddm_s {
+    
+    width: 300px;
+    
+    }
+    .ddm_s[data-bs-popper] {
+    top: 50px;
+    left: -2px;
+    margin-top: 0;
+    }
+    /* bannar start */
+    .c_item {
+    padding: 90px 0;
+    text-align: center;
+    }
+    .c_item h1 {
+    
+    font-size: 35px;
+    
+    }
+    .c_item p {
+    margin: 25px 94px 25px 0;
+    text-align: center;
+    margin-right: 0;
+    }
+    .slider_indicators {
+    top: 91%;
+    
+    }
+    .c_prev {
+    
+    left: 82px;
+    
+    }
+    .c_next {
+    
+    right: 82px;
+    
+    }
+    .slider_indicators {
+    
+    left: 150px;
+    
+    }
+    /* welcome start */
+    .welcome {
+    padding-bottom: 40px;
+    }
+    .welcome_title h1 {
+    
+    margin: 40px 0;
+    font-size: 22px;
+    
+    }
+    .welcome_p p {
+    margin: 0 23px;
+    text-align: justify;
+    }
+    /* service start */
+    .service {
+    padding-bottom: 0px;
+    padding-top: 40px;
+    }
+    .f-content {
+    margin-top: 30px;
+    padding-top: 0px;
+    padding-bottom: 25px;
+    }
+    .service-content {
+    
+    margin: 0 0 80px;
+    }
+    /* about */
+    .about-left {
+    padding: 0 0px;
+    text-align: center;
+    }
+    .about-right {
+    text-align: center;
+    }
+    .about-title {
+    font-size: 24px;
+    margin-top: 48px;
+    }
+    .middle-p, .last-p {
+    margin: 40px 10px 38px 10px;
+    text-align: justify;
+    }
+    /* recent */
+    .recent_work{
+    padding-bottom: 40px;
+    }
+    .c_recent_menu {
+    padding: 0px 0px 20px;
+    }
+    .recent_img {
+    margin-bottom: 40px;
+    }
+    .text-c {
+    padding: 0 0px;
+    }
+    .c_recent_menu ul li {
+    margin: 0 10px;
+    
+    }
+    /* choose start */
+    .nipro_choose {
+    
+    text-align: center;
+    }
+    .choose_nipro-icon {
+    margin: 0 25px;
+    }
+    .c_n_icon i {
+    font-size: 40px;
+    
+    }
+    .c_n_icon_text_end {
+    margin: 0 20px;
+    
+    }
+    .c_n_icon_text_end p {
+    margin: 20px 0;
+    
+    }
+    /* work start */
+    .work_img {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+    
+    /* tample start */
+    
+    .tample_text {
+        text-align: center;
+    }
+    .tample_text h2 {
+       
+        margin: 30px 0 20px;
+      
+    }
+    .tample_btn {
+        
+        text-align: center;
+    }
+    
+    .tample {
+        
+        padding-bottom: 25px;
+    }
+    
+    
+    /* footer start */
+    
+    .t_footerp {
+       
+        margin: 0 40px 40px;
+    }
+    
+    .footer_icon i {
+        
+        margin: 10px 10px 30px;
+        
+        padding: 8px;
+        
+    }
+    .footer_left {
+        text-align: center;
+    }
+    .footer_right {
+        margin: 25px 44px 25px 0px;
+    }
+    
+    /* testimonial start */
+        .testimonial-seccion{
+            padding-bottom: 60px;
+        }
+        .testimonial-right{
+            margin-top: 20px;
+            text-align: center;
+        }
+        .testimonial-item img{
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    
+        /* testimonial end */
+    /* contact start */
+    .contact-form {
+            margin: 0px 0px;}
+    
+            
+        .contact-sec{
+            padding-bottom: 50px;
+        }
+        /* contact end */
+    
+    
+    }
+    /* Small devices (landscape phones, 576px and up) */
+    @media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    .c_nav h1 {
+    
+    font-size: 26px;
+    
+    }
+    .menu ul li a {
+    padding: 15px 0px 0!important;
+    }
+    .ddm_s[data-bs-popper] {
+    top: -6px;
+    left: 90px;
+    margin-top: 0;
+    }
+    /* bannar start */
+    .c_item {
+    padding: 140px 0;
+    text-align: center;
+    }
+    .c_item h1 {
+    
+    font-size: 48px;
+    
+    }
+    .c_item p {
+    
+    text-align: center;
+    margin-right: 0;
+    }
+    .slider_indicators {
+    top: 91%;
+    
+    }
+    .c_prev {
+    
+    left: 190px;
+    
+    }
+    .c_next {
+    
+    right: 190px;
+    
+    }
+    .slider_indicators {
+    
+    left: 258px;
+    
+    }
+    /* welcom start */
+    .welcome {
+    padding-bottom: 50px;
+    }
+    /* service start */
+    .f-content {
+    margin-top: 30px;
+    padding-top: 0px;
+    padding-bottom: 25px;
+    }
+    .service-content {
+    
+    padding: 0px 0px;
+    
+    margin-top: 60px;
+    }
+    /* about */
+    .about-left {
+    padding: 0 60px;
+    text-align: center;
+    }
+    .about-right {
+    text-align: center;
+    }
+    .about-title {
+    
+    margin-top: 48px;
+    }
+    .middle-p, .last-p {
+    margin: 40px 25px 38px 25px;
+    
+    }
+    /* recent */
+    .recent_img {
+    margin-bottom: 40px;
+    }
+    .text-c {
+    padding: 0 15px;
+    }
+    .c_recent_menu ul li {
+    margin: 0 10px;
+    
+    }
+    /* choose start */
+    .nipro_choose {
+    
+    text-align: center;
+    }
+    .choose_nipro-icon {
+    margin: 0 20px;
+    }
+    
+    .c_n_icon_text {
+        margin: 3px 0 0 7px;
+    }
+    
+    /* work start */
+    .sw-text {
+    width: 221px;
+    
+    }
+    .work_img {
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-right: 0;
+    }
+    .sw-text {
+    width: 246px;
+    background-color: #ffffff;
+    }
+    
+    
+    /* pricing start */
+    .pricing {
+        margin-top: 50px;
+        
+    }
+    /* tample start */
+    
+    .tample_text h2 {
+        
+        font-size: 16px;
+      
+    }
+    .tample_btn2{
+            padding: 10px 30px;
+    }
+    
+    
+    
+    
+    /* footer start */
+    
+    
+    .footer_left {
+        text-align: center;
+    }
+    .footer_right ul li a {
+        margin: 0 0 0 30px;
+        color: #ffffff;
+    }
+    
+    /* testimonial start */
+        .testimonial-seccion{
+            padding-bottom: 60px;
+        }
+        .testimonial-right{
+            margin-top: 20px;
+            text-align: center;
+        }
+        .testimonial-item img{
+            padding-left: 90px;
+            padding-right: 90px;
+        }
+    
+        /* testimonial end */
+    
+    
+    /* cotaact start */
+    
+    .contact-form {
+        margin: 0px -70px;
+        
+    }
+    
+    
+    }
+    /* Medium devices (tablets, 768px and up) */
+    @media (min-width: 768px) and (max-width: 991.98px) {
+    /* header start */
+    .menu ul li a {
+    padding: 15px 0px 0!important;
+    }
+    .ddm_s[data-bs-popper] {
+    top: -6px;
+    left: 90px;
+    margin-top: 0;
+    }
+    /* bannar start */
+    .c_item {
+    padding: 140px 0;
+    }
+    .c_item h1 {
+    
+    font-size: 50px;
+    
+    }
+    .slider_indicators {
+    top: 91%;
+    
+    }
+    .gm ul {
+        margin-top: 23px;
+        margin-left: 70px;
+    }
+    .c_next {
+    
+    right: 590px;
+    
+    }
+    /* welcom start */
+    .welcome {
+    padding-bottom: 50px;
+    }
+    /* service */
+    .f-content {
+    margin-top: 20px;
+    
+    }
+    .service-content {
+    
+    padding: 0px 0px;
+    
+    margin-top: 60px;
+    }
+    /* about */
+    .about-left {
+    text-align: center;
+    }
+    .about-right {
+    text-align: center;
+    }
+    .about-title {
+    
+    margin-top: 48px;
+    }
+    .middle-p, .last-p {
+    margin: 40px 40px 38px 40px;
+    
+    }
+    /* recent */
+    .c_recent_menu {
+    padding: 0px 45px 37px;
+    }
+    .c_recent_menu ul li {
+    margin: 0 5px;
+    
+    }
+    .recent_img {
+    margin-bottom: 30px;
+    }
+    /* choose start */
+    .c_n_icon_text_end p {
+    margin: 25px 0;
+    
+    }
+    /* work start */
+    .work_img {
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    }
+    
+    
+    /* pricing start */
+    .pricing {
+        margin-top: 50px;
+        
+    }
+    
+    /* footer start */
+    .footer_white {
+       
+        font-size: 14px;
+    }
+    .footer_right ul li a {
+        margin: 0 0 0 5px;
+        
+        font-size: 14px;
+    }
+    
+    /* testimonial start */
+        .testimonial-seccion{
+            padding-bottom: 60px;
+        }
+        .testimonial-right{
+            margin-top: 20px;
+            text-align: center;
+        }
+        .testimonial-item img{
+            padding-left: 130px;
+            padding-right: 130px;
+        }
+    
+        /* testimonial end */
+    
+    
+    
+        /* contact start */
+        .contact-form {
+        margin: 0 0px;
+       
+    }
+    
+    }
+    /* Large devices (desktops, 992px and up) */
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+    
+    /* bannar start */
+    .c_item {
+    padding: 140px 0;
+    }
+    .c_item h1 {
+    
+    font-size: 50px;
+    
+    }
+    .c_next {
+    
+    right: 830px;
+    
+    }
+    
+    /* service start */
+    .f-content {
+    margin-top: 9px;
+    padding-top: 9px;
+    padding-bottom: 15px;
+    }
+    /* about start */
+    .middle-p, .last-p {
+    margin: 20px 15px 26px 0;
+    
+    }
+    /* recent start */
+    .c_recent_menu ul li {
+    margin: 0 -3px;
+    
+    }
+    .recent_img {
+    margin-bottom: 30px;
+    }
+    /* choose start */
+    .c_n_icon i {
+    font-size: 44px;
+    
+    }
+    .c_n_icon_h1 {
+    font-size: 16px;
+    
+    }
+    .c_n_icon_text_end {
+    margin: 0 20px;
+    
+    }
+    /* work stat */
+    .sw-text {
+    width: 191px;
+    
+    }
+    .sw-text h3 {
+    font-size: 15px;
+    }
+    .sw-text p {
+    
+    font-size: 15px;
+    }
+    
+    /* pricint start */
+    .pricing_stitle {
+        font-size: 30px;
+      
+    }
+    
+    
+    /* footer start */
+    .footer_icon i {
+            margin: 20px 8px 80px;
+        
+    }
+    
+    /* contact start */
+    
+    .contact-form {
+        margin: 0px 70px;
+        padding-top: 60px;
+    }
+    
+    
+    
+    }
+    /* Extra large devices (large desktops, 1200px and up) */
+    @media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+    /* bannar start */
+    .c_item {
+    padding: 140px 0;
+    }
+    .c_next {
+    
+    right: 1008px;
+    
+    }
+    /* welcome start */
+    .welcome_p p {
+    margin: 0 127px;
+    
+    }
+    /* about start */
+    .middle-p, .last-p {
+    margin: 20px 15px 26px 0;
+    
+    }
+    /* recent start */
+    .c_recent_menu ul li {
+    margin: 0 10px;
+    
+    }
+    .recent_img {
+    margin-bottom: 40px;
+    }
+    /* work stat */
+    .work_img {
+    
+    margin-left: 0px;
+    }
+    
+    
+    /* contact start */
+    .contact-form {
+        margin: 0px 135px;
+        
+    }
+    
+    }
+    /* Extra Extra large devices (large desktops, 1400px and up) */
+    @media (min-width: 1400px) {
+    
+    }
